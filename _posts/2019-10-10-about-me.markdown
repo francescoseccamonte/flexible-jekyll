@@ -1,0 +1,24 @@
+---
+layout: post
+title: About me
+description: Francesco's brief bio # Add post description
+img: punta_aderci.jpg # Add image post (optional)
+fig-caption: Riserva Naturale di Punta Aderci. Vasto # Add figcaption (optional)
+tags: #
+---
+
+I'm a first year PhD student in Mechanical Engineering at University of California, Santa Barbara.
+
+Before moving to California, I was a Research Engineer in Controls at nuTonomy, a startup developing self-driving cars (acquired by Delphi, now Aptiv, in late 2017).
+I started as an intern in their Boston office in summer 2017, and then joined the Singapore office as full time staff until July 2019.
+During my time at nuTonomy, I focused mostly on designing and implementing novel trajectory tracking controllers.
+
+Prior to my industrial experience, in 2017 I earned a M.Sc. in Robotics, Systems and Control from ETH Zürich, where I had the honor to work with Prof. Emilio Frazzoli, who supervised my Master's thesis on Autonomous Mobility on Demand Systems; also, in 2015 I obtained my B.Sc. in Industrial Engineering from University of Pavia, under the supervision of Prof. Davide Raimondo.
+
+I'm originally from Pescara, a city on the Adriatic coast in Abruzzo region, Italy.
+Being very proud of my homeland, all the pictures on this website show some wonderful landscapes from Abruzzo.
+
+In my spare time I'm a mediocre water polo player.
+I also love listening to Jazz and Prog music.
+
+A CV is available upon request.
