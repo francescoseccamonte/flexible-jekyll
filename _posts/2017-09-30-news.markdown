@@ -7,6 +7,7 @@ fig-caption: Rocca Calascio. L'Aquila # Add figcaption (optional)
 tags: #
 ---
 
+- **May 20**: I passed the qualifying examinations.
 - **Sep 19**: I left nuTonomy and started a PhD at University of California, Santa Barbara.
 - **June 19**: Our paper "On Maximizing Lateral Clearance of an Autonomous Vehicle in Urban Environments" has been accepted to the Intelligent Transportation Systems Conference 2019. [Juraj](https://scholar.google.com/citations?user=73D0CgcAAAAJ&hl=default "Juraj's Google Scholar") will be there to present it.
 - **Oct 17**: I joined nuTonomy Singapore as a Research Engineer in Controls.
