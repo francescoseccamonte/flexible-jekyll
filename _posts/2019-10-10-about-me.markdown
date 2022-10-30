@@ -7,9 +7,9 @@ fig-caption: Riserva Naturale di Punta Aderci. Vasto # Add figcaption (optional)
 tags: #
 ---
 
-I'm a first year PhD student in Mechanical Engineering at University of California, Santa Barbara.
+I'm a fourth year PhD student in Mechanical Engineering at University of California, Santa Barbara, working with Prof. [Francesco Bullo](http://motion.me.ucsb.edu "FB's website").
 
-Before moving to California, I was a Research Engineer in Controls at nuTonomy, a startup developing self-driving cars (acquired by Delphi, now Aptiv, in late 2017).
+Before moving to California, I was a Research Engineer in Controls at nuTonomy, a startup developing self-driving cars (now Motional).
 I started as an intern in their Boston office in summer 2017, and then joined the Singapore office as full time staff until July 2019.
 During my time at nuTonomy, I focused mostly on designing and implementing novel trajectory tracking controllers.
 

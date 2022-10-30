@@ -10,6 +10,15 @@ tags: #
 I'm interested in the very broad area of complex interconnected systems, where (potentially heterogeneous) agents interact influencing each other.
 I'm fascinated by how control theoretical tools can help framing networked systems in a mathematically sound structure, and the insights therein obtained.
 
+## Current projects
+
+### Physics-Inspired Network Flow Estimation
+
+Due to limited sensing capabilities, being able to esimate flows in infrastructure networks (traffic, power, water, etc.) is a crucial task.
+We improved over state-of-the-art approaches by developing novel Implicit Neural Network Layers, embedding physical knowledge such as mass conservation.
+Despite being non traditional layers, we provided algorithms to train them via standard backpropagation, leveraging tools from convex optimization and contraction theory.
+Some of the results have been presented at NeurIPS 2022 (check out the [Publications]({% post_url 2019-06-10-publications %}) section).
+
 ## Past interests
 
 ### Control of Self-Driving Cars

@@ -7,6 +7,9 @@ fig-caption: Rocca Calascio. L'Aquila # Add figcaption (optional)
 tags: #
 ---
 
+- **Oct 22**: I presented our recent progress on network flow estimation at the [40th SoCal Workshop](https://sccw.caltech.edu "40 Socal website"). [Slides](https://drive.google.com/file/d/1HuD2PmaePWfiM3NaHyVGsxJPWD52Wi8t/view?usp=sharing "Socal slides")
+- **Sep 22**: Our paper "Physics-Informed Implicit Representations of Equilibrium Network Flows" has been accepted to NeurIPS 2022. [Kevin]("https://sites.engineering.ucsb.edu/~kevinsmith/" "KS's website") will be there to present it.
+- **June 22**: I joined [Motional](https://motional.com "Motional's website") for a summer internship in the Motion Planning Research Team.
 - **May 20**: I passed the qualifying examinations.
 - **Sep 19**: I left nuTonomy and started a PhD at University of California, Santa Barbara.
 - **June 19**: Our paper "On Maximizing Lateral Clearance of an Autonomous Vehicle in Urban Environments" has been accepted to the Intelligent Transportation Systems Conference 2019. [Juraj](https://scholar.google.com/citations?user=73D0CgcAAAAJ&hl=default "Juraj's Google Scholar") will be there to present it.
