@@ -15,7 +15,7 @@ Accepted to IEEE Transactions on Control Systems Technology. <a href="https://do
 
 ## Conference publications
 
-2. Physics-Informed Implicit Representations of Equilibrium Network Flows.
+2. Physics-Informed Implicit Representations of Equilibrium Network Flows.  
 
 Kevin D. Smith, Francesco Seccamonte, Ananthram Swami, Francesco Bullo.  
 2022 Advances in Neural Information Processing Systems (NeurIPS), New Orleans, 2022. <a href="https://sites.engineering.ucsb.edu/~kevinsmith/neurips_2022.pdf" target="_blank"><i class="fa fa-file"></i></a>
